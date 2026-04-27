@@ -1,4 +1,4 @@
-loginform.tsx
+LoginForm.tsx
 "use client";
 
 import { useSearchParams, useRouter } from "next/navigation";
